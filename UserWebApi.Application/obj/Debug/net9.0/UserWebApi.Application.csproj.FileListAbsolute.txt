@@ -28,3 +28,4 @@
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.Application/obj/Debug/net9.0/en/UserWebApi.Application.resources.dll
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.Application/obj/Debug/net9.0/ru/UserWebApi.Application.resources.cs
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.Application/obj/Debug/net9.0/ru/UserWebApi.Application.resources.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Application/obj/Debug/net9.0/UserWebApi.Application.sourcelink.json

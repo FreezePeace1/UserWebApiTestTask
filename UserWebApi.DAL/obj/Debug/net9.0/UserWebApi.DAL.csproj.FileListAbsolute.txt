@@ -15,3 +15,4 @@
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.pdb
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.genruntimeconfig.cache
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/ref/UserWebApi.DAL.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.sourcelink.json

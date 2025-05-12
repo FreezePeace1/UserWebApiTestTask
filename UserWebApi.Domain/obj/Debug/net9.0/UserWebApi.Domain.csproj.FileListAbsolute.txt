@@ -10,3 +10,4 @@
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.pdb
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/ref/UserWebApi.Domain.dll
 /home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.csproj.AssemblyReference.cache
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.sourcelink.json

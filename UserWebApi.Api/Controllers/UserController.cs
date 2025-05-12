@@ -90,7 +90,7 @@ public class UserController : ControllerBase
 
     [HttpGet("GetUserPersonalDataByLogin")]
     [Authorize(Policy = "AdminOnly")]
-    public async Task<ActionResult<ResponseDto<GetUserByLoginForAdminModel>>> GetUserPersonalDataByLoginAsync(ReadUserByLoginDto dto)
+    public async Task<ActionResult<ResponseDto<GetUserByLoginForAdminModel>>> GetUserPersonalDataByLoginAsync([FromQuery] ReadUserByLoginDto dto)
     {
         var response = await _userService.GetUserPersonalDataByLoginAsync(dto);
 
@@ -104,7 +104,7 @@ public class UserController : ControllerBase
 
     [HttpGet("GetUserByLoginAndPassword")]
     [Authorize]
-    public async Task<ActionResult<ResponseDto<User>>> GetUserByLoginAndPasswordAsync(ReadUserByLoginAndPasswordDto dto)
+    public async Task<ActionResult<ResponseDto<User>>> GetUserByLoginAndPasswordAsync([FromQuery] ReadUserByLoginAndPasswordDto dto)
     {
         var response = await _userService.GetUserByLoginAndPasswordAsync(dto);
 
@@ -118,7 +118,7 @@ public class UserController : ControllerBase
 
     [HttpGet("GetAllUsersByDefiniteAge")]
     [Authorize(Policy = "AdminOnly")]
-    public async Task<ActionResult<ResponseDto<IReadOnlyList<User>>>> GetAllUsersByDefiniteAgeAsync(ReadAllUsersByDefiniteAgeDto dto,CancellationToken cancellationToken)
+    public async Task<ActionResult<ResponseDto<IReadOnlyList<User>>>> GetAllUsersByDefiniteAgeAsync([FromQuery] ReadAllUsersByDefiniteAgeDto dto,CancellationToken cancellationToken)
     {
         var response = await _userService.GetAllUsersByDefiniteAgeAsync(dto,cancellationToken);
 

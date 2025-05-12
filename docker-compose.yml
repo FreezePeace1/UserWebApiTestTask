@@ -1,0 +1,27 @@
+﻿services:
+  userwebapi.api:
+    image: userwebapi.api
+    container_name: userwebapi.api 
+    ports:
+      - "5001:8080"
+    depends_on:
+      - userwebapi.db
+    build:
+      context: .
+      dockerfile: UserWebApi.Api/Dockerfile
+  
+  userwebapi.db:
+    image: postgres:latest
+    container_name: userwebapi.db
+    environment:
+      - POSTGRES_USER=test
+      - POSTGRES_PASSWORD=test
+      - POSTGRES_DB=userwebapi.db
+    ports:
+      - "5400:5432"
+    volumes:
+      - userwebapi.db:/var/lib/postgresql/data
+
+volumes:
+  userwebapi.db:
+    name: userwebapi.db

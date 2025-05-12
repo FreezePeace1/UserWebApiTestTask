@@ -1,0 +1,12 @@
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/bin/Debug/net9.0/UserWebApi.Domain.deps.json
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/bin/Debug/net9.0/UserWebApi.Domain.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/bin/Debug/net9.0/UserWebApi.Domain.pdb
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.AssemblyInfoInputs.cache
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.AssemblyInfo.cs
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.csproj.CoreCompileInputs.cache
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/refint/UserWebApi.Domain.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.pdb
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/ref/UserWebApi.Domain.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/Debug/net9.0/UserWebApi.Domain.csproj.AssemblyReference.cache

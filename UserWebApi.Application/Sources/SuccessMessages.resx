@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="UserCreationIsSucceed" xml:space="preserve">
+        <value>User creation is succeed</value>
+    </data>
+    <data name="UserUpdatingIsSucceed" xml:space="preserve">
+        <value>User updating is succeed</value>
+    </data>
+    <data name="UserUpdatingPasswordIsSucceed" xml:space="preserve">
+        <value>User updating password is succeed</value>
+    </data>
+    <data name="UserLoginUpdatingIsSucceed" xml:space="preserve">
+        <value>User login updating is succeed</value>
+    </data>
+    <data name="GettingActiveUsersIsSucceed" xml:space="preserve">
+        <value>Getting active users is succeed</value>
+    </data>
+    <data name="GettingUserPersonalDataByLoginIsSucceed" xml:space="preserve">
+        <value>Getting user personal data by login is succeed</value>
+    </data>
+    <data name="GettingUserByLoginAndPasswordIsSucceed" xml:space="preserve">
+        <value>Getting user by login and password is succeed</value>
+    </data>
+    <data name="GettingAllUsersByDefiniteAgeIsSucceed" xml:space="preserve">
+        <value>Getting all users by definite age is succeed</value>
+    </data>
+    <data name="SoftDeletingIsSucceed" xml:space="preserve">
+        <value>Soft deleting is succeed</value>
+    </data>
+    <data name="FullDeletingIsSucceed" xml:space="preserve">
+        <value>Full deleting is succeed</value>
+    </data>
+    <data name="RecoveringUserByLoginIsSucceed" xml:space="preserve">
+        <value>Recovering user by login is succeed</value>
+    </data>
+</root>

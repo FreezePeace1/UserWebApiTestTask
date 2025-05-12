@@ -1,0 +1,22 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  userwebapi.api:
+    build:
+      context: "/home/alexander/RiderProjects/UserWebApi"
+      dockerfile: "UserWebApi.Api/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net9.0/UserWebApi.Api.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "userwebapi.api:dev"
+    ports: []
+    volumes:
+    - "/home/alexander/.microsoft/usersecrets:/home/app/.microsoft/usersecrets"
+    - "/home/alexander/.nuget/packages:/home/app/.nuget/packages"
+    - "/home/alexander/RiderProjects/UserWebApi/UserWebApi.Api:/app:rw"
+    - "/home/alexander/RiderProjects/UserWebApi:/src:rw"
+    working_dir: "/app"

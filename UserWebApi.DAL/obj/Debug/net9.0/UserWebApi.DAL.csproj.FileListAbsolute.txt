@@ -1,0 +1,17 @@
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/bin/Debug/net9.0/UserWebApi.DAL.deps.json
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/bin/Debug/net9.0/UserWebApi.DAL.runtimeconfig.json
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/bin/Debug/net9.0/UserWebApi.DAL.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/bin/Debug/net9.0/UserWebApi.DAL.pdb
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/bin/Debug/net9.0/UserWebApi.Domain.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/bin/Debug/net9.0/UserWebApi.Domain.pdb
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.csproj.AssemblyReference.cache
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.AssemblyInfoInputs.cache
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.AssemblyInfo.cs
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.csproj.CoreCompileInputs.cache
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebA.B4BC918D.Up2Date
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/refint/UserWebApi.DAL.dll
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.pdb
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/UserWebApi.DAL.genruntimeconfig.cache
+/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/Debug/net9.0/ref/UserWebApi.DAL.dll

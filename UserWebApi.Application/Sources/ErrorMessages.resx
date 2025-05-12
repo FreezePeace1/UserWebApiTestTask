@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="FailedToCreateUser" xml:space="preserve">
+        <value>Failed to create user</value>
+    </data>
+    <data name="UserIsNotAuthorizedOrDeleted" xml:space="preserve">
+        <value>User is not authorized or deleted</value>
+    </data>
+    <data name="FailedToUpdateUser" xml:space="preserve">
+        <value>Failed to update user</value>
+    </data>
+    <data name="NotSupportedCondition" xml:space="preserve">
+        <value>Not supported condition to update user</value>
+    </data>
+    <data name="UserAlreadyExistsWithThisLogin" xml:space="preserve">
+        <value>User already exists with this login</value>
+    </data>
+    <data name="EnterNeededDtoValues" xml:space="preserve">
+        <value>Enter needed dto values</value>
+    </data>
+    <data name="FailedToFindUser" xml:space="preserve">
+        <value>Failed to find user</value>
+    </data>
+    <data name="UserUpdatingPasswordIsFailed" xml:space="preserve">
+        <value>User updating password is failed</value>
+    </data>
+    <data name="CheckYourCurrentPassword" xml:space="preserve">
+        <value>Check your current password</value>
+    </data>
+    <data name="FailedToUpdateLoginOfUser" xml:space="preserve">
+        <value>Failed to update login of user</value>
+    </data>
+    <data name="NoAccessRights" xml:space="preserve">
+        <value>No access rights</value>
+    </data>
+    <data name="GettingActiveUsersIsFailed" xml:space="preserve">
+        <value>Getting active users is failed</value>
+    </data>
+    <data name="GettingUserPersonalDataByLoginIsFailed" xml:space="preserve">
+        <value>Getting user personal data by login is failed</value>
+    </data>
+    <data name="CheckYourCredentials" xml:space="preserve">
+        <value>Check your cderentials</value>
+    </data>
+    <data name="GettingUserByLoginAndPasswordIsFailed" xml:space="preserve">
+        <value>Getting user by login and password is failed</value>
+    </data>
+    <data name="GettingAllUsersByDefiniteAgeIsFailed" xml:space="preserve">
+        <value>Getting all users by definite age is failed</value>
+    </data>
+    <data name="FailedToDeleteUser" xml:space="preserve">
+        <value>Failed to delete user</value>
+    </data>
+    <data name="RecoveringUserByLoginIsFailed" xml:space="preserve">
+        <value>Recovering user by login is failed</value>
+    </data>
+    <data name="UserInCookieAndAdminCheckingIsFailed" xml:space="preserve">
+        <value>User in cookie and amdin checking is failed</value>
+    </data>
+</root>

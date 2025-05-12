@@ -1,0 +1,71 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="FailedToCreateUser" xml:space="preserve">
+        <value>Не удалось создать пользователя</value>
+    </data>
+    <data name="UserIsNotAuthorizedOrDeleted" xml:space="preserve">
+        <value>Пользователь удален или не авторизован</value>
+    </data>
+    <data name="FailedToUpdateUser" xml:space="preserve">
+        <value>Не удалось обновить пользователя</value>
+    </data>
+    <data name="NotSupportedCondition" xml:space="preserve">
+        <value>Не поддерживоемое условие на обновление пользователя</value>
+    </data>
+    <data name="UserAlreadyExistsWithThisLogin" xml:space="preserve">
+        <value>Пользователь уже существует с данным логином</value>
+    </data>
+    <data name="EnterNeededDtoValues" xml:space="preserve">
+        <value>Введите нужные данные для DTO</value>
+    </data>
+    <data name="FailedToFindUser" xml:space="preserve">
+        <value>Не удалось найти пользователя</value>
+    </data>
+    <data name="UserUpdatingPasswordIsFailed" xml:space="preserve">
+        <value>Обновление пароля пользователя неуспешно</value>
+    </data>
+    <data name="CheckYourCurrentPassword" xml:space="preserve">
+        <value>Проверьте свой пароль</value>
+    </data>
+    <data name="FailedToUpdateLoginOfUser" xml:space="preserve">
+        <value>Не удалось обновить логин пользователя</value>
+    </data>
+    <data name="NoAccessRights" xml:space="preserve">
+        <value>Нет прав доступа</value>
+    </data>
+    <data name="GettingActiveUsersIsFailed" xml:space="preserve">
+        <value>Получение активных пользователей не удачно</value>
+    </data>
+    <data name="GettingUserPersonalDataByLoginIsFailed" xml:space="preserve">
+        <value>Получение персональных данных пользователя провалено</value>
+    </data>
+    <data name="CheckYourCredentials" xml:space="preserve">
+        <value>Проверьте свой логин или пароль</value>
+    </data>
+    <data name="GettingUserByLoginAndPasswordIsFailed" xml:space="preserve">
+        <value>Получение пользователя по логину и паролю успешно</value>
+    </data>
+    <data name="GettingAllUsersByDefiniteAgeIsFailed" xml:space="preserve">
+        <value>Получение всех пользователей по определенному возрасту неудачно</value>
+    </data>
+    <data name="FailedToDeleteUser" xml:space="preserve">
+        <value>Не удалось удалить пользователя</value>
+    </data>
+    <data name="RecoveringUserByLoginIsFailed" xml:space="preserve">
+        <value>Восстановление пользователя по логину провалено</value>
+    </data>
+    <data name="UserInCookieAndAdminCheckingIsFailed" xml:space="preserve">
+        <value>Проверка пользователя в куки и на наличие админ прав провалена</value>
+    </data>
+</root>

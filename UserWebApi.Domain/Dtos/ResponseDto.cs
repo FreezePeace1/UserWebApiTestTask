@@ -21,7 +21,7 @@ public sealed class ResponseDto<T> : ResponseDto where T : class
     public T Data { get; set; }
 }
 
-public class ResponseDto<T1,T2> : ResponseDto where T1 : class where T2 : class
+public sealed class ResponseDto<T1,T2> : ResponseDto where T1 : class where T2 : class
 {
     public ResponseDto(string errorMessage, string successMessage, int errorCode)
     {

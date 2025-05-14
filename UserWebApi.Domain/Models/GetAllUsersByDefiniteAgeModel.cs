@@ -1,6 +1,6 @@
 namespace UserWebApi.Domain.Models;
 
-public class GetAllUsersByDefiniteAgeModel
+public sealed class GetAllUsersByDefiniteAgeModel
 {
     public Guid Id { get; set; }
     public string Login { get; set; } = string.Empty;

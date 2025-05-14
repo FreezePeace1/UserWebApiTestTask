@@ -1,6 +1,6 @@
 namespace UserWebApi.Domain.Models;
 
-public class GetUserByLoginAndPasswordModel
+public sealed class GetUserByLoginAndPasswordModel
 {
     public Guid Id { get; set; }
     public string Login { get; set; } = string.Empty;

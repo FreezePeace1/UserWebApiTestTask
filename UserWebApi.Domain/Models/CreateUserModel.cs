@@ -1,6 +1,6 @@
 namespace UserWebApi.Domain.Models;
 
-public class CreateUserModel
+public sealed class CreateUserModel
 {
     public Guid Id { get; set; }
     public string Login { get; set; } = string.Empty;

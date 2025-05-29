@@ -2835,25 +2835,24 @@
     ]
   },
   "packageFolders": {
-    "/home/alexander/.nuget/packages/": {}
+    "/home/freezepeace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/UserWebApi.DAL.csproj",
+      "projectUniqueName": "/home/freezepeace/RiderProjects/UserWebApiTestTask/UserWebApi.DAL/UserWebApi.DAL.csproj",
       "projectName": "UserWebApi.DAL",
-      "projectPath": "/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/UserWebApi.DAL.csproj",
-      "packagesPath": "/home/alexander/.nuget/packages/",
-      "outputPath": "/home/alexander/RiderProjects/UserWebApi/UserWebApi.DAL/obj/",
+      "projectPath": "/home/freezepeace/RiderProjects/UserWebApiTestTask/UserWebApi.DAL/UserWebApi.DAL.csproj",
+      "packagesPath": "/home/freezepeace/.nuget/packages/",
+      "outputPath": "/home/freezepeace/RiderProjects/UserWebApiTestTask/UserWebApi.DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/alexander/.nuget/NuGet/NuGet.Config"
+        "/home/freezepeace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/home/packages": {},
         "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -2861,8 +2860,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/UserWebApi.Domain.csproj": {
-              "projectPath": "/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/UserWebApi.Domain.csproj"
+            "/home/freezepeace/RiderProjects/UserWebApiTestTask/UserWebApi.Domain/UserWebApi.Domain.csproj": {
+              "projectPath": "/home/freezepeace/RiderProjects/UserWebApiTestTask/UserWebApi.Domain/UserWebApi.Domain.csproj"
             }
           }
         }
@@ -2920,7 +2919,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.105/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

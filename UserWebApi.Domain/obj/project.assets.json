@@ -538,25 +538,24 @@
     ]
   },
   "packageFolders": {
-    "/home/alexander/.nuget/packages/": {}
+    "/home/freezepeace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/UserWebApi.Domain.csproj",
+      "projectUniqueName": "/home/freezepeace/RiderProjects/UserWebApiTestTask/UserWebApi.Domain/UserWebApi.Domain.csproj",
       "projectName": "UserWebApi.Domain",
-      "projectPath": "/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/UserWebApi.Domain.csproj",
-      "packagesPath": "/home/alexander/.nuget/packages/",
-      "outputPath": "/home/alexander/RiderProjects/UserWebApi/UserWebApi.Domain/obj/",
+      "projectPath": "/home/freezepeace/RiderProjects/UserWebApiTestTask/UserWebApi.Domain/UserWebApi.Domain.csproj",
+      "packagesPath": "/home/freezepeace/.nuget/packages/",
+      "outputPath": "/home/freezepeace/RiderProjects/UserWebApiTestTask/UserWebApi.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/alexander/.nuget/NuGet/NuGet.Config"
+        "/home/freezepeace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/home/packages": {},
         "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -603,7 +602,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.105/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
